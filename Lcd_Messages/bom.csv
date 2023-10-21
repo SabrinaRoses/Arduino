@@ -1,0 +1,5 @@
+﻿Nome,Quantidade,Componente
+"R1",1,"220 Ω Resistor"
+"U1",1," Arduino Uno R3"
+"U2",1," LCD 16 x 2"
+"R2",1,"1 kΩ Resistor"
